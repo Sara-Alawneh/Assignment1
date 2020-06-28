@@ -1,0 +1,61 @@
+.bigDiv { 
+			border : 4px ;
+			width : 370px;
+			height : 370px;
+			margin-left: 490px;
+			border: 2px solid black;
+			}
+		.button { 
+			float: left;
+			width: 35px;
+			height: 35px;
+			border: 1px solid black;
+			font-size:30px;
+		    text-align:center;
+		     background: #a6a6a6;   
+		}
+		.buttonn{
+			float: left;
+			width: 33px;
+			height: 33px;
+			border: 1px solid black;
+			font-size:20px;
+		    text-align:center;
+			background: #ffccdd;
+		}
+		#title {
+		    margin-top: 10px;
+		    font-size: 50px;
+		    color: gray;
+		    margin-left: 550px;
+	    }
+		#restart{
+			 margin-left:610px;
+			width: 120px;
+			height: 45px;
+			font-size:20px;
+			color: black;
+			background-color: lightgrey;
+			border-radius: 18px;
+			text-shadow: 0 0 10px #808080;
+			 box-shadow: 0 7px #808080;
+		}
+		#showresult{
+			 margin-left: 570px;
+			 font-size: 20px;
+	         color: red;
+		}
+		#numberMINE{
+			font-size: 20px;
+			color: black;
+			margin-left: 530px;
+			width: 300px;
+			height: 30px;
+			text-align: center;
+			border-bottom: 6px solid #ffccdd;
+			background-color: lightgrey;
+		    border-radius: 5px;
+		}
+		.buttonGroung{
+			background: grey;
+		}
