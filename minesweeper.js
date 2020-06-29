@@ -26,13 +26,13 @@ let i = 0;
                 var randonNumber =  Math.floor(Math.random() * 99) + 1; 
                 if(!arraybom.includes(randonNumber)) {              
                     arraybom[i] = randonNumber;
-                    document.getElementById(randonNumber).value = "b";
+                    document.getElementById(randonNumber).value = "";
                     i++;
                 }
             }
         }
 
-ب        function check(clicked){
+        function check(clicked){
             var count = 0 ;
             for(var i = 0 ; i < 100 ; i++){
                 var v = document.getElementById(i);
